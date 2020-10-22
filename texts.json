@@ -1,0 +1,53 @@
+{
+    "help": {
+        "general": "Here is a list of my commands:\n\n`%help` - You are here!\n`%about` - Short explanation, what this bot is about\n`%lessons` - Shows a list of all available lessons\n`%wordlist` - Shows a list of all available wordlists."
+    },
+    "lessons": {
+        "level": "\n\nPlease select a level by reacting with a number. This exercise has the following level:\n\n",
+        "exercises": "\n\nPlease react with a number within the next 3 minutes to chose the exercise you want to do. List of exercises:\n\n",
+        "startExercise": "\n\nPlease react to this message with ✅ within the next 3 minutes, if you want to start with the exercise. Following exercise is available:\n\n",
+        "endExercise": "The exercise was ended because you didn't react fast enough.",
+        "congrats": "Congratulations! You have finished this exercise."
+    },
+    "commnds": {
+        "good": [
+            "tsrezì",
+            "boy",
+            "riti"
+        ],
+        "bad": [
+            "tsrezì",
+            "riti",
+            "bot"
+        ],
+        "feed": [
+            "pizza",
+            "pasta",
+            "chocolate",
+            "ice cream",
+            "chips",
+            "salad",
+            "lasagna",
+            "burger"
+        ],
+        "feedbad": [
+            "steak",
+            "meatballs",
+            "meat",
+            "cheese",
+            "egg"
+        ]
+    },
+    "about": "I am Tsrezì, a cute little Riti from Pandora. I am here to help you learning Na'vi! I have short grammar explanations and some exercises for practising basic grammar topics. \nUse `%help` to find out more about my functions!\n\n*Please note: I only provide very basic information about the most topics I have lessons about. I can help you learning the really basic basics, but please use other resources or ask teachers about more detailed information!*",
+    "wordlists": "*Wordlists can be opened by using the command `%wordlist <number>`, `%wl <number>` or the commands which are showed in this list list. To open for example the lesson about <example follows when I have implemented one list>, you can use the commands `%wordlist 1`, `%wl 1`, `%wordlist one`, `%wl one`, `%wordlist 'aw`, `%wl 'aw` or `%<example>`.*\n\nAvailable wordlists:\n**#1 - Nothing** (*This whole part is non-existing at the moment hrh If you want it to appear faster, give Tekre a Cookie, maybe she will then have the motivation to work on it.*)",
+    "lessonList": "*Lessons can be opened by using the command `%<number>` or the commands which are showed in the lesson list. To open for example the lesson about pronunciation, you can use the commands `%1`, `%one`, `%'aw` or `%pronunciation`.*\n\nAvailable lessons:\n**#1 - Pronunciation** (command: `%pronunciation`)\n**#2 - L and T case endings** (WIP, command: `%lt`)",
+    "transitivity": "Na'vi distinguish between transitive verbs (vtr) and intransitive verbs (vin). The category to which a verb belongs has a big impact on how it acts grammatically, so it is to best to learn, which verbs are transitive and which not. Luckily there are two patterns we can follow:\n\n- Verbs, which can have a direct object are usually transitive. For example the Na'vi words for hunt, eat, give etc. are transitive.\n- The so called *si-verbs* (verbs which are builded using the helping verb *si*) are always intransitive.\n- Since the Na'vi word some stuff different from like we do in english, there are some cases which seem strange for us. The best example is *nume* (to learn), which is intransitive. The Na'vi don't say *I learn something*, but *Regarding something, I gain knowledge* - No direct object -> it is intransitive.\n\nSome words are just marked as *verbs* (v) in the dictionary. This means that their transitivity is not known yet.",
+    "feed": "Thanks for feeding me! When I start to extinguish humanity, you will be spared.",
+    "feedbad": "I am a vegan Riti! Don't feed me such stuff!",
+    "starve": "Why do you want me to starve? When I start to extinguish humanity, I will begin with you.",
+    "bad": "How dare you calling me bad! Blame <@429361033446948864>, they is the idiot without any programming skills!",
+    "good": "I know that I am a good Riti. Because all Riti are great!",
+    "pizza": "Thanks for this pizza! When I start to extinguish humanity, you will be spared. We will rule this world together!",
+    "shutdown": "I'll sleep now.",
+    "shutdown1": "You are not my master! If you want to get rid of me for any reason, ask <@429361033446948864> if they will shut me down, but if you don't have a good reason, they will probably just say 'No'."
+}

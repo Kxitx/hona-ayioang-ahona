@@ -1,0 +1,44 @@
+if (command[0] === "%create") {
+            const embed = new MessageEmbed()
+                .setTitle('create profile')
+                .setColor(0x000000)
+                .setThumbnail(msg.author.avatarURL())
+                // Set the main content of the embed
+                .setDescription(texts.create.intro);
+            msg.channel.send(embed).then(sentMessage => {
+                sentMessage.react("1️⃣")
+                    .then(() => sentMessage.react('2️⃣'));
+
+                //await reactions
+                const filter = (reaction, user) => {
+                    return ['1️⃣', '2️⃣'].includes(reaction.emoji.name) && user.id === msg.author.id;
+                };
+
+                sentMessage.awaitReactions(filter, { max: 1, time: 120000, errors: ['time'] })
+                    .then(collected => {
+                        const reaction = collected.first();
+
+                        if (reaction.emoji.name === '1️⃣') {
+                            sentMessage.reply('you reacted with a one.');
+                        } else {
+                            sentMessage.reply('you reacted with a two.');
+                        }
+                    })
+                    .catch(collected => {
+                        const embed = new MessageEmbed()
+                            .setTitle('no game mode chosen')
+                            .setColor(0x000000)
+                            .setThumbnail(msg.author.avatarURL())
+                            // Set the main content of the embed
+                            .setDescription("<@" + msg.author.id + "> " + texts.create.noReaction);
+                        msg.channel.send(embed)
+                    });
+            });;
+
+
+
+,
+    "create": {
+        "intro": "**Kaltxì ulte zola'u nìprrte' to uvansiyu!** \nHere you can set up your profile. \n\nPlease react within the next three minutes...\n...with :one:, if you want to play the normal animal collecting game - leveling up step by step to unlock the different learning games\n...with :two:, if you are just interested in the learning games and want to be able to play all of them right from the beginning\n\n*With `%help gamemodes` you can get more information about the two options.*",
+        "noReaction": "You haven't chosen a game mode. Please use the `%create` command again when you want to create your profile."
+    }

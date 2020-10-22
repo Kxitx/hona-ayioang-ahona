@@ -1,0 +1,171 @@
+{
+    "pronounciation": {
+        "overview": "The pronunciation is the part of the language the most teachers will you recommend to start with. The easiest and best-working way for that is to ask a teacher if he would go through the alphabet with you in voice chat and practice the different letters with you. But off course there are also resources which allow you to learn it on your own, for example:\n\n - Pamìrìks YouTube video: https://www.youtube.com/watch?v=e5JKGL-o16M\n- Tirea Aeans Guide: http://tirea.learnnavi.org/index.php?p=sounds",
+        "exercise": "**Exercise 1️⃣** - The Bot gives you words or phrases to train your pronounciation with. Tip: Practice together with other people in voice chat!",
+        "first": {
+            "next": "\n\n*Please react with ✅ when you want the next word.*",
+            "intro": "Read out loud the words or phrases the bot shows you. **It is highly recommended to do this together with other people so mistakes can be corrected!**",
+            "lvlDescription": "**- Level 1️⃣:** Simple words which will be usefull for the beginning of your learning journey.\n**- Level 2️⃣:** Small phrases which are usefull in simple conversations.\n**- Level 3️⃣:** For those who want to challenge themselves, long, complicated Na'vi words, partly build with many affixes.\n**- Level 4️⃣:** For the completely crazy people, tongue twisters in Na'vi.",
+            "ingame": "Read out loud the following word/phrase. React with ✅ when you want te next word. The exercise will be closed if you don't react within the next 6 minutes.\n\n",
+            "level": [
+                [
+                    "kaltxì",
+                    "irayo",
+                    "hayalovay",
+                    "kìyevame",
+                    "kxì",
+                    "mllte",
+                    "krr",
+                    "nga",
+                    "tstunwi",
+                    "tslolam",
+                    "hìtxoa",
+                    "ngaytxoa",
+                    "oe",
+                    "riti",
+                    "kolan",
+                    "kelutral"
+                ],
+                [
+                    "Oel ngati kameie.",
+                    "Rutxe liveyn.",
+                    "Makto fyape?",
+                    "Ngaru lu fpom srak?",
+                    "Ngari pefmawn?",
+                    "Oeru lu tìpawm.",
+                    "Ngaru tìyawr.",
+                    "Trr lefpom.",
+                    "Oe zene hivum.",
+                    "Smon nìprrte'.",
+                    "Riti lu sweya ioang.",
+                    "Irayo nìli.",
+                    "Ngaru tìkxey.",
+                    "Ngafkeyk fyape?",
+                    "Fyape fko syaw ngar?"
+                ],
+                [
+                    "atxkxe",
+                    "ekxtxu",
+                    "prrkxentrrkrr",
+                    "meoauniaea",
+                    "täpeykìyeverkeiup",
+                    "ayfayfyavay",
+                    "kllkxem",
+                    "fwefwi",
+                    "tireapäpeykìyevängkxatso",
+                    "pllhrr",
+                    "tsngeykolawvängìk",
+                    "pefraymunsnauniltìrantokxolo'fkeyktsyìpìri",
+                    "kizazamkivozamkizamkivohin",
+                    "pxeatxkxerel",
+                    "Tsafnepalulukantsyìp"
+                ],
+                [
+                    "Lu txanatana tanhì atxanatan txana atan atxan.",
+                    "Fwäkì ke fwefwi.",
+                    "Oe ätxäle säpi äieio sì swirä asyä'ä, ulte kivä nìngäzìk, ulte rä'ä miväkxu oe.",
+                    "Nì'i'a hì'ia tì'i'a a'a'aw 'i'a.",
+                    "Ngima ngawng mì ngengeyä ngima ngäng lu ngul.",
+                    "'Eoioa meoauniaeaoio oe 'ieia.",
+                    "Mrra frrtu sì lrrtok amrr sì mrra ngrr sì vrrtep amrr, wrrpa fawnrrfena 'Rrta, prrkxentrrkrr si srrìri nìhrrap.",
+                    "Ngima ngawng mì ngengeyä ngima ngäng lu ngul.",
+                    "Fwa fwi fu fwa fwefwi ftue lu.",
+                    "Ayolo'ru tìholo loloho nìholo.",
+                    "Plltxe: hllteyä kllte sì txll'u hu ewll kxll soli.",
+                    "Tute lu tete ulte tute lu teng.  Tute lu tute te tupe?",
+                    "Ayu soaiä ayoehu räpìyey nìmeoauniaea.",
+                    "Oe sìlpoley tsnì tstewa tsmukan luke tstxo tsraymì namatsew tspivang, slä tstal tskosì swizaw ke tsamun tslivam.",
+                    "Vulka ke kä ko, ki kä ka ram ko!"
+                ]
+            ]
+        }
+    },
+    "lt": {
+        "overview": "-l and -t are the two case endings which allow you to write simple sentences with transitive verbs:\n__**-l** - Who does something?__\n- consonant, ay/ey/aw/ew or rr/ll: -ìl\n- vowel: -l\n__**-t** - Who is affected by this action?__\n- consonant or rr/l or aw/ew: -it/-ti\n- vowel: -t(i)\n- ay/ey: -t\n\nThis clear marking of subject and object allows us to write sentences in any order:\n*Oel ngati kame.* = *Ngati kame oel.* = *Kame ngati oel.* = ... = I see you.\n\n*If you want more infos about transitive and intransitive verbs, please use `%transitivity`.*",
+        "exercise": "**Exercise 1️⃣:** Transitive or intransitive? Train your knowledge about verbs.\n**Exercise 2️⃣:** Find the subject/object. Train your brain to detect fast which noun has to become the -l, and which the -t. (*Not implemented yet.*)\n**Exercise 3️⃣:** Sentence translation. Try out if you can use what you learned. (*Not implemented yet.*)",
+        "first": {
+            "intro": "Test yourself - how good can you distinguish transitive and intransitive verbs? **Tip: If you make a mistake in this exercise, write the verb down and build a sentence with it, by doing this you will remember the verb easier in the future!**",
+            "lvlDescription": "**- Level 1️⃣:** Beginner verbs which are usefull to know as fast as possible.\n**- Level 2️⃣:** All verbs. (*No, not really. Since the dictionary is not included yet this level just have a different set of words, but one day it will include all verbs hrh*)",
+            "text": " *- Is this verb transitive or intransitive? Please write __vtr__ or __vin__ in the chat.*",
+            "level": [
+                [
+                    "lu vin be",
+                    "'efu vtr feel",
+                    "nume vin learn",
+                    "irayo si thank",
+                    "kaltxì si greet",
+                    "nìn vtr watch",
+                    "tse'a vtr see",
+                    "kame vtr see",
+                    "hahaw vin sleep",
+                    "tslam vtr understand",
+                    "fpìl vtr think",
+                    "kä vin go",
+                    "sar vtr use",
+                    "tok vtr be",
+                    "kanom vtr get",
+                    "tìng vtr give",
+                    "tìran vtr walk",
+                    "new vtr want",
+                    "yom vtr eat",
+                    "srung si help",
+                    "sìlpey vin hope"
+                ],
+                [
+                    "fwefwi vin whistle",
+                    "pllngay vin admit",
+                    "ngop vtr create",
+                    "omum vtr know",
+                    "tsulfä si master",
+                    "makto ride",
+                    "terkup vin die",
+                    "emza'u vtr pass",
+                    "leymfe' vin complain",
+                    "slele vin swim"
+                ]
+            ]
+        },
+        "second": {
+            "intro": "Test yourself - Can you find out which word of the sentence is subject, and which is the object? **Tip: If you make a mistake in this exercise, write the sentence and mark object and subject.**",
+            "lvlDescription": "**- Level 1️⃣:** English sentences.\n**- Level 2️⃣:** Na'vi sentences.",
+            "text": " *- Please write in the Chat: Which word is the ",
+            "level": [
+                [
+                    "lu vin be",
+                    "'efu vtr feel",
+                    "nume vin learn",
+                    "irayo si thank",
+                    "kaltxì si greet",
+                    "nìn vtr watch",
+                    "tse'a vtr see",
+                    "kame vtr see",
+                    "hahaw vin sleep",
+                    "tslam vtr understand",
+                    "fpìl vtr think",
+                    "kä vin go",
+                    "sar vtr use",
+                    "tok vtr be",
+                    "kanom vtr get",
+                    "tìng vtr give",
+                    "tìran vtr walk",
+                    "new vtr want",
+                    "yom vtr eat",
+                    "srung si help",
+                    "sìlpey vin hope"
+                ],
+                [
+                    "fwefwi vin whistle",
+                    "pllngay vin admit",
+                    "ngop vtr create",
+                    "omum vtr know",
+                    "tsulfä si master",
+                    "makto ride",
+                    "terkup vin die",
+                    "emza'u vtr pass",
+                    "leymfe' vin complain",
+                    "slele vin swim"
+                ]
+            ]
+        }
+    }
+}
