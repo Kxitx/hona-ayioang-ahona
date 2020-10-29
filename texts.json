@@ -1,6 +1,6 @@
 {
     "help": {
-        "general": "Here is a list of my commands:\n\n`%help` - You are here!\n`%about` - Short explanation, what this bot is about\n`%lessons` - Shows a list of all available lessons\n`%wordlist` - Shows a list of all available wordlists."
+        "general": "Here is a list of my commands:\n\n`%help` - You are here!\n`%about` - Short explanation, what this bot is about\n`%start` - Some tips for starting learning the language\n`%lessons` - Shows a list of all available lessons\n`%wl` - Shows a list of all available wordlists.\n`%updates` - What's new about me? Here you see which parts of me where updated or newly implemented.\n\n*I have much more hidden commands - for example you can try to feed me :)*"
     },
     "lessons": {
         "level": "\n\nPlease select a level by reacting with a number. This exercise has the following level:\n\n",
@@ -9,16 +9,41 @@
         "endExercise": "The exercise was ended because you didn't react fast enough.",
         "congrats": "Congratulations! You have finished this exercise."
     },
+    "answers": [
+        "Srane",
+        "Kehe",
+        "Srankehe",
+        "Ke omum",
+        "Oeru ke'u",
+        "Ftang pivawm sìpawmit a ke tsranten ulte tìng oeru **pizza**ti!!!!",
+        "Kxawm",
+        "Ke new 'iveyng oe",
+        "Mrrvomun",
+        "Ke tsranten",
+        "Kezemplltxe",
+        "Krro krro",
+        "Teylupil",
+        "Pela'ang?",
+        "Pelun nga new ivomum?",
+        "Sran sran ma eyktan!",
+        "Spantsìpap Skuwerpäntsì!",
+        "Nga ke new ivomum tì'eyngit.",
+        "Sranänge",
+        "Sraneie",
+        "Hìtxoa, ke omum oel tsat... 'awa swawtsyìp, pìyawm Eytukanta oe."
+    ],
     "commnds": {
         "good": [
             "tsrezì",
             "boy",
-            "riti"
+            "riti",
+            "bot"
         ],
         "bad": [
             "tsrezì",
             "riti",
-            "bot"
+            "bot",
+            "boy"
         ],
         "feed": [
             "pizza",
@@ -28,26 +53,33 @@
             "chips",
             "salad",
             "lasagna",
-            "burger"
+            "burger",
+            "utumauti",
+            "human",
+            "cake",
+            "cookies"
         ],
         "feedbad": [
             "steak",
             "meatballs",
             "meat",
             "cheese",
-            "egg"
+            "egg",
+            "chicken"
         ]
     },
     "about": "I am Tsrezì, a cute little Riti from Pandora. I am here to help you learning Na'vi! I have short grammar explanations and some exercises for practising basic grammar topics. \nUse `%help` to find out more about my functions!\n\n*Please note: I only provide very basic information about the most topics I have lessons about. I can help you learning the really basic basics, but please use other resources or ask teachers about more detailed information!*",
-    "wordlists": "*Wordlists can be opened by using the command `%wordlist <number>`, `%wl <number>` or the commands which are showed in this list list. To open for example the lesson about <example follows when I have implemented one list>, you can use the commands `%wordlist 1`, `%wl 1`, `%wordlist one`, `%wl one`, `%wordlist 'aw`, `%wl 'aw` or `%<example>`.*\n\nAvailable wordlists:\n**#1 - Nothing** (*This whole part is non-existing at the moment hrh If you want it to appear faster, give Tekre a Cookie, maybe she will then have the motivation to work on it.*)",
+    "wordlists": "Every wordlist contains 15 words.\n*Wordlists can be opened by using the command `%wl <number>` or the commands which are showed in this list list. To open for example the lesson about body parts, you can use the commands `%wl 4`, `%wl four`, `%wl tsìng` or `%wl body`.\nIf you want to practice the words, add `test` to the command. For example with `%wl body test` you can test, how well you know the words in this wordlist.*\n\nAvailable wordlists:\n**#1 - Beginner** (*Basic words, perfect for the beginning. Command: `%wl beginner`*)\n**#2 - Beginner verbs** (*Some often used verbs. Command: `%wl verbs`*)\n**#3 - Talking about Pandora/Avatar** (*Some vocab to describe things from the movie. Command: `%wl pandora`*)\n**#4 - Body parts** (*Command: `%wl body`*)\n**#5 - People** (*Words for different people, also contains the server role names. Command: `%wl people`*)\n**#6 - Family** (*Vocab for speaking about the family. Command: `%wl family`*)",
     "lessonList": "*Lessons can be opened by using the command `%<number>` or the commands which are showed in the lesson list. To open for example the lesson about pronunciation, you can use the commands `%1`, `%one`, `%'aw` or `%pronunciation`.*\n\nAvailable lessons:\n**#1 - Pronunciation** (command: `%pronunciation`)\n**#2 - L and T case endings** (WIP, command: `%lt`)",
     "transitivity": "Na'vi distinguish between transitive verbs (vtr) and intransitive verbs (vin). The category to which a verb belongs has a big impact on how it acts grammatically, so it is to best to learn, which verbs are transitive and which not. Luckily there are two patterns we can follow:\n\n- Verbs, which can have a direct object are usually transitive. For example the Na'vi words for hunt, eat, give etc. are transitive.\n- The so called *si-verbs* (verbs which are builded using the helping verb *si*) are always intransitive.\n- Since the Na'vi word some stuff different from like we do in english, there are some cases which seem strange for us. The best example is *nume* (to learn), which is intransitive. The Na'vi don't say *I learn something*, but *Regarding something, I gain knowledge* - No direct object -> it is intransitive.\n\nSome words are just marked as *verbs* (v) in the dictionary. This means that their transitivity is not known yet.",
     "feed": "Thanks for feeding me! When I start to extinguish humanity, you will be spared.",
-    "feedbad": "I am a vegan Riti! Don't feed me such stuff!",
+    "feedbad": "I am a vegan Riti! And if I want to eat meat again I catch a human, not a poor little animal!",
     "starve": "Why do you want me to starve? When I start to extinguish humanity, I will begin with you.",
     "bad": "How dare you calling me bad! Blame <@429361033446948864>, they is the idiot without any programming skills!",
     "good": "I know that I am a good Riti. Because all Riti are great!",
     "pizza": "Thanks for this pizza! When I start to extinguish humanity, you will be spared. We will rule this world together!",
     "shutdown": "I'll sleep now.",
+    "start": "A good start ist to read Pamìrìks Guide *So you want to speak Na'vi* (https://docs.google.com/document/d/17yNJpaGJJEPPjRF6WAxfhQaEJhxgIV7bPya9_kQAU2U/edit?usp=sharing). But here are some tips in short form:\n\n**1. Start with the pronunciation!** If you don't learn it correct at the beginning, it will be harder ot learn it later. Since the Na'vi don't write, the lagnuage is meant to be a only spoken language! If you don't know where to learn the pronunciation, try `%pronunciation`.\n**2. Learn a short time per day.** You will learn more by doing 5 Minutes a day than if you do 2 hours once a week.\n**3. Ask questions!** Here are many people to help you!\n**4. Learn grammar!** Grammar sounds scary for many people, but it is just a set of rules to build up correct sentences!\n**5. Practice what you learned!** Reading through grammar rules will teach you nearly nothing. You need to use it! With writing sentences you can also learn vocab - You will remember them better when you use them.\n**6. Speak as early as possible!** It is hard to dare to speak a new language at the beginning, but it is worth it! You learn much more by *using* the language than by just reading about it!",
+    "updates": "*What is new about Tsrezì? Here you see the last big updates.*\n\n**#24.10.2020** - First 4 wordlists added, vocab test function implemented\n**#28.10.2020** - Easy mode for wordlist tests added",
     "shutdown1": "You are not my master! If you want to get rid of me for any reason, ask <@429361033446948864> if they will shut me down, but if you don't have a good reason, they will probably just say 'No'."
 }

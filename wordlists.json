@@ -1,9 +1,144 @@
 {
-    "help": {
-        "general": "General help section, WIP. If you see this, that means that <@429361033446948864> forgot (or was just to lazy) to replace this filler text. If you want, you can ~~annoy~~ help her by reminding her friendly of replacing it by something useful. Seriously, please remind me, I need to get this stuff done.",
-        "test": "Test help section, WIP. If you see this, that means that <@429361033446948864> forgot (or was just to lazy) to replace this filler text. If you want, you can ~~annoy~~ help her by reminding her friendly of replacing it by something useful. Seriously, please remind me, I need to get this stuff done."
+    "intro": "Test yourself - How well do you know the words?",
+    "exercise": " *- Write the Na'vi translation in the chat!*",
+    "choice": " *- React with the correct number!*\n\n",
+    "level": "**- Level 1️⃣:** Easy mode, choose the correct word\n**- Level 2️⃣:** Hard mode, write down the words yourself",
+    "beginner": {
+        "title": "Beginner vocab list",
+        "end": "\nIf you want to test yourself, try `%wl beginner test` to start the vocab test!",
+        "intro": "intro. If you see this, that means that <@429361033446948864> forgot (or was just to lazy) to replace this filler text. If you want, you can ~~annoy~~ help them by reminding them friendly of replacing it by something useful. Seriously, please remind me, I need to get this stuff done.\n\n",
+        "test": "Test help section, WIP. If you see this, that means that <@429361033446948864> forgot (or was just to lazy) to replace this filler text. If you want, you can ~~annoy~~ help them by reminding them friendly of replacing it by something useful. Seriously, please remind me, I need to get this stuff done.",
+        "words": [
+            "kaltxì;hello",
+            "hayalovay;until next time",
+            "kìyevame;good-bye, see you again soon",
+            "oe;I",
+            "nga;you",
+            "po;he/she",
+            "tam;okay",
+            "mllte;agree, agreed",
+            "srane;yes",
+            "kehe;no",
+            "rutxe;please",
+            "irayo;thanks",
+            "frawzo;don't worry, everything is ok",
+            "seysonìltsan;well done! good job!",
+            "nìprrte';gladly, with pleasure"
+        ]
     },
-    "pronounciation": {
-        "overview": "Pronounciation overview, WIP. If you see this, that means that <@429361033446948864> forgot (or was just to lazy) to replace this filler text. If you want, you can ~~annoy~~ help her by reminding her friendly of replacing it by something useful. Seriously, please remind me, I need to get this stuff done."
+    "verbs": {
+        "title": "Beginner verb list",
+        "end": "\nIf you want to test yourself, try `%wl verbs test` to start the vocab test!",
+        "intro": "intro. If you see this, that means that <@429361033446948864> forgot (or was just to lazy) to replace this filler text. If you want, you can ~~annoy~~ help them by reminding them friendly of replacing it by something useful. Seriously, please remind me, I need to get this stuff done.\n\n",
+        "test": "Test help section, WIP. If you see this, that means that <@429361033446948864> forgot (or was just to lazy) to replace this filler text. If you want, you can ~~annoy~~ help them by reminding them friendly of replacing it by something useful. Seriously, please remind me, I need to get this stuff done.",
+        "words": [
+            "lu;to be",
+            "tok;to be at, occupy a space",
+            "'efu';to feel",
+            "tse'a;to see",
+            "sunu;be pleasing, be likeable, bring enjoyment",
+            "smon;be familiar, be known",
+            "yom;to eat",
+            "näk;to drink",
+            "hahaw;to sleep",
+            "kä;to go",
+            "omum;to know",
+            "fpìl;to think",
+            "fwefwi;to whistle",
+            "plltxe;to speak",
+            "new;to want"
+        ]
+    },
+    "pandora": {
+        "title": "Pandora vocab list",
+        "end": "\nIf you want to test yourself, try `%wl pandora test` to start the vocab test!",
+        "intro": "intro. If you see this, that means that <@429361033446948864> forgot (or was just to lazy) to replace this filler text. If you want, you can ~~annoy~~ help them by reminding them friendly of replacing it by something useful. Seriously, please remind me, I need to get this stuff done.\n\n",
+        "test": "Test help section, WIP. If you see this, that means that <@429361033446948864> forgot (or was just to lazy) to replace this filler text. If you want, you can ~~annoy~~ help them by reminding them friendly of replacing it by something useful. Seriously, please remind me, I need to get this stuff done.",
+        "words": [
+            "meoauniaea;harmony, living at one with nature",
+            "Eywa'eveng;Pandora",
+            "uniltìrantokx;Avatar, 'Dreamwalker-body'",
+            "ioang;animal",
+            "'ewll;plant",
+            "taronyu;hunter",
+            "olo';clan",
+            "na'rìng;forest",
+            "utral;tree",
+            "kelutral;hometree",
+            "ylltxep;communal fire (*place where the Na'vi eat together*)",
+            "tswayon;to fly",
+            "atokirina';seeds of the great tree",
+            "tsaheylu;bond (*neural connection*)",
+            "Eywa;world spirit, great mother, Gaia"
+        ]
+    },
+    "body": {
+        "title": "Body parts vocab list",
+        "end": "\nIf you want to test yourself, try `%wl body test` to start the vocab test!",
+        "intro": "intro. If you see this, that means that <@429361033446948864> forgot (or was just to lazy) to replace this filler text. If you want, you can ~~annoy~~ help them by reminding them friendly of replacing it by something useful. Seriously, please remind me, I need to get this stuff done.\n\n",
+        "test": "Test help section, WIP. If you see this, that means that <@429361033446948864> forgot (or was just to lazy) to replace this filler text. If you want, you can ~~annoy~~ help them by reminding them friendly of replacing it by something useful. Seriously, please remind me, I need to get this stuff done.",
+        "words": [
+            "nari;eye",
+            "mikyun;ear",
+            "ontu;nose",
+            "kxa;mouth",
+            "re'o;head",
+            "tokx;body",
+            "ftxì;tongue",
+            "kinam;leg",
+            "pxun;arm",
+            "tsyokx;hand",
+            "zekwä;finger",
+            "venu;foot",
+            "venzek;toe",
+            "heyr;chest",
+            "nikre;hair"
+        ]
+    },
+    "people": {
+        "title": "People vocab list",
+        "end": "\nIf you want to test yourself, try `%wl people test` to start the vocab test!",
+        "intro": "intro. If you see this, that means that <@429361033446948864> forgot (or was just to lazy) to replace this filler text. If you want, you can ~~annoy~~ help them by reminding them friendly of replacing it by something useful. Seriously, please remind me, I need to get this stuff done.\n\n",
+        "test": "Test help section, WIP. If you see this, that means that <@429361033446948864> forgot (or was just to lazy) to replace this filler text. If you want, you can ~~annoy~~ help them by reminding them friendly of replacing it by something useful. Seriously, please remind me, I need to get this stuff done.",
+        "words": [
+            "tute;person",
+            "tuté;woman",
+            "tutan;man",
+            "fyeyntu;adult person",
+            "'eveng;child",
+            "frapo;everyone",
+            "karyu;teacher",
+            "numeyu;student, learner",
+            "olo'eyktan;clan leader",
+            "eyktan;leader",
+            "eykyu;temporary leader of a small group like a hunting party",
+            "'eylan';friend",
+            "wätu;opponent",
+            "yawntu;beloved person",
+            "muntxatu;spouse"
+        ]
+    },
+    "family": {
+        "title": "Family vocab list",
+        "end": "\nIf you want to test yourself, try `%wl family test` to start the vocab test!",
+        "intro": "intro. If you see this, that means that <@429361033446948864> forgot (or was just to lazy) to replace this filler text. If you want, you can ~~annoy~~ help them by reminding them friendly of replacing it by something useful. Seriously, please remind me, I need to get this stuff done.\n\n",
+        "test": "Test help section, WIP. If you see this, that means that <@429361033446948864> forgot (or was just to lazy) to replace this filler text. If you want, you can ~~annoy~~ help them by reminding them friendly of replacing it by something useful. Seriously, please remind me, I need to get this stuff done.",
+        "words": [
+            "soaia;family",
+            "sa'nok;mother",
+            "sa'nu;mommy",
+            "sempul;father",
+            "sempu;daddy",
+            "sa'sem;parents",
+            "'ite';daughter",
+            "'itan';son",
+            "tsmuk;sibling",
+            "tsmukan;brother",
+            "tsmuke;sister",
+            "pizayu;ancestor",
+            "muntxatu;spouse",
+            "muntxate;wife",
+            "muntxatan;husband"
+        ]
     }
 }

@@ -85,43 +85,135 @@
         "exercise": "**Exercise 1️⃣:** Transitive or intransitive? Train your knowledge about verbs.\n**Exercise 2️⃣:** Find the subject/object. Train your brain to detect fast which noun has to become the -l, and which the -t. (*Not implemented yet.*)\n**Exercise 3️⃣:** Sentence translation. Try out if you can use what you learned. (*Not implemented yet.*)",
         "first": {
             "intro": "Test yourself - how good can you distinguish transitive and intransitive verbs? **Tip: If you make a mistake in this exercise, write the verb down and build a sentence with it, by doing this you will remember the verb easier in the future!**",
-            "lvlDescription": "**- Level 1️⃣:** Beginner verbs which are usefull to know as fast as possible.\n**- Level 2️⃣:** All verbs. (*No, not really. Since the dictionary is not included yet this level just have a different set of words, but one day it will include all verbs hrh*)",
-            "text": " *- Is this verb transitive or intransitive? Please write __vtr__ or __vin__ in the chat.*",
+            "lvlDescription": "**- Level 1️⃣:** 25 Beginner verbs which are usefull to know as fast as possible.\n**- Level 2️⃣:** All verbs.",
+            "text": " *- Is this verb transitive or intransitive? Please write __vtr__ or __vin__ in the chat. In the spoiler you find the translation, but please try first without looking!*",
             "level": [
                 [
-                    "lu vin be",
-                    "'efu vtr feel",
-                    "nume vin learn",
-                    "irayo si thank",
-                    "kaltxì si greet",
-                    "nìn vtr watch",
-                    "tse'a vtr see",
-                    "kame vtr see",
-                    "hahaw vin sleep",
-                    "tslam vtr understand",
-                    "fpìl vtr think",
-                    "kä vin go",
-                    "sar vtr use",
-                    "tok vtr be",
-                    "kanom vtr get",
-                    "tìng vtr give",
-                    "tìran vtr walk",
-                    "new vtr want",
-                    "yom vtr eat",
-                    "srung si help",
-                    "sìlpey vin hope"
-                ],
-                [
-                    "fwefwi vin whistle",
-                    "pllngay vin admit",
-                    "ngop vtr create",
-                    "omum vtr know",
-                    "tsulfä si master",
-                    "makto ride",
-                    "terkup vin die",
-                    "emza'u vtr pass",
-                    "leymfe' vin complain",
-                    "slele vin swim"
+                    [
+                        "lu",
+                        "to be",
+                        "intransitive"
+                    ],
+                    [
+                        "'efu",
+                        "to feel",
+                        "transitive"
+                    ],
+                    [
+                        "nume",
+                        "to learn",
+                        "intransitive"
+                    ],
+                    [
+                        "irayo si",
+                        "to thank",
+                        "intransitive"
+                    ],
+                    [
+                        "kaltxì si",
+                        "to greet",
+                        "intransitive"
+                    ],
+                    [
+                        "nìn",
+                        "to watch",
+                        "transitive"
+                    ],
+                    [
+                        "tse'a",
+                        "to see",
+                        "transitive"
+                    ],
+                    [
+                        "kame",
+                        "to see",
+                        "transitive"
+                    ],
+                    [
+                        "hahaw",
+                        "to sleep",
+                        "intransitive"
+                    ],
+                    [
+                        "tslam",
+                        "to understand",
+                        "transitive"
+                    ],
+                    [
+                        "fpìl",
+                        "to think",
+                        "transitive"
+                    ],
+                    [
+                        "kä",
+                        "to go",
+                        "intransitive"
+                    ],
+                    [
+                        "sar",
+                        "to use",
+                        "transitive"
+                    ],
+                    [
+                        "tok",
+                        "to be at",
+                        "transitive"
+                    ],
+                    [
+                        "kanom",
+                        "to get, to acquire",
+                        "transitive"
+                    ],
+                    [
+                        "tìng",
+                        "to give",
+                        "transitive"
+                    ],
+                    [
+                        "tìran",
+                        "to walk",
+                        "intransitive"
+                    ],
+                    [
+                        "new",
+                        "to want",
+                        "transitive"
+                    ],
+                    [
+                        "yom",
+                        "to eat",
+                        "transitive"
+                    ],
+                    [
+                        "srung si",
+                        "to help",
+                        "intransitive"
+                    ],
+                    [
+                        "sìlpey",
+                        "to hope",
+                        "intransitive"
+                    ],
+                    [
+                        "stawm",
+                        "to hear",
+                        "transitive"
+                    ],
+                    [
+                        "hangham",
+                        "to laugh",
+                        "intransitive"
+                    ],
+                    [
+                        "pamrel si",
+                        "to write",
+                        "intransitive"
+                    ],
+                    [
+                        "inan",
+                        "to read",
+                        "transitive"
+                    ]
                 ]
             ]
         },
@@ -164,6 +256,22 @@
                     "emza'u vtr pass",
                     "leymfe' vin complain",
                     "slele vin swim"
+                ]
+            ]
+        },
+        "third": {
+            "intro": "Intro exercise lt-3, WIP. If you see this, that means that <@429361033446948864> forgot (or was just to lazy) to replace this filler text. If you want, you can ~~annoy~~ help them by reminding them friendly of replacing it by something useful. Seriously, please remind me, I need to get this stuff done.",
+            "lvlDescription": "lvl description exercise lt-3, WIP. If you see this, that means that <@429361033446948864> forgot (or was just to lazy) to replace this filler text. If you want, you can ~~annoy~~ help them by reminding them friendly of replacing it by something useful. Seriously, please remind me, I need to get this stuff done.",
+            "text": " And another text for exercise lt-3, WIP. If you see this, that means that <@429361033446948864> forgot (or was just to lazy) to replace this filler text. If you want, you can ~~annoy~~ help them by reminding them friendly of replacing it by something useful. Seriously, please remind me, I need to get this stuff done.",
+            "level": [
+                [],
+                [],
+                [],
+                [
+                    "{'sentence': 'I see you.', 'solution': 'kame ngati oel', 'kame': 'tse*a nìn tìng#nari', 'ngati': 'ngat mengat mengati pxenga pxengati ayngat ayngati'}",
+                    "The hunter hunts the animal.",
+                    "You eat the fruit.",
+                    "They cook the meat."
                 ]
             ]
         }
