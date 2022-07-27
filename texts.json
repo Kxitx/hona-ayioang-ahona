@@ -1,6 +1,6 @@
 {
     "help": {
-        "general": "Here is a list of my commands:\n\n`%help` - You are here!\n`%about` - Short explanation, what this bot is about\n`%start` - Some tips for starting learning the language\n`%lessons` - Shows a list of all available lessons\n`%wl` - Shows a list of all available wordlists.\n`%updates` - What's new about me? Here you see which parts of me where updated or newly implemented.\n\n*I have much more hidden commands - for example you can try to feed me :)*"
+        "general": "Here is a list of my commands:\n\n`%help` - You are here!\n`%about` - Short explanation, what this bot is about\n`%start` - Some tips for starting learning the language\n`%lessons` - Shows a list of all available lessons\n`%wl` - Shows a list of all available wordlists.\n`%n <number>` - Translates numbers into Na'vi\n`%q <question>` - Ask a question, get a random answer!\n`%updates` - What's new about me? Here you see which parts of me where updated or newly implemented.\n`%hivahaw nìmwey` - Shuts me down\n\n*I have much more hidden commands - for example you can try to feed me :)*"
     },
     "lessons": {
         "level": "\n\nPlease select a level by reacting with a number. This exercise has the following level:\n\n",
@@ -57,7 +57,14 @@
             "utumauti",
             "human",
             "cake",
-            "cookies"
+            "cookies",
+            "volcano",
+            "sushi",
+            "tomke",
+            "mako",
+            "sena",
+            "food",
+            "tekre"
         ],
         "feedbad": [
             "steak",
@@ -65,7 +72,13 @@
             "meat",
             "cheese",
             "egg",
-            "chicken"
+            "chicken",
+            "palulukan",
+            "riti",
+            "teylu",
+            "nantang",
+            "yerik",
+            "toruk"
         ]
     },
     "about": "I am Tsrezì, a cute little Riti from Pandora. I am here to help you learning Na'vi! I have short grammar explanations and some exercises for practising basic grammar topics. \nUse `%help` to find out more about my functions!\n\n*Please note: I only provide very basic information about the most topics I have lessons about. I can help you learning the really basic basics, but please use other resources or ask teachers about more detailed information!*",
@@ -75,11 +88,12 @@
     "feed": "Thanks for feeding me! When I start to extinguish humanity, you will be spared.",
     "feedbad": "I am a vegan Riti! And if I want to eat meat again I catch a human, not a poor little animal!",
     "starve": "Why do you want me to starve? When I start to extinguish humanity, I will begin with you.",
-    "bad": "How dare you calling me bad! Blame <@429361033446948864>, they is the idiot without any programming skills!",
+    "bad": "How dare you call me bad! Blame <@429361033446948864>, they are the idiot without any programming skills!",
     "good": "I know that I am a good Riti. Because all Riti are great!",
     "pizza": "Thanks for this pizza! When I start to extinguish humanity, you will be spared. We will rule this world together!",
     "shutdown": "I'll sleep now.",
-    "start": "A good start ist to read Pamìrìks Guide *So you want to speak Na'vi* (https://docs.google.com/document/d/17yNJpaGJJEPPjRF6WAxfhQaEJhxgIV7bPya9_kQAU2U/edit?usp=sharing). But here are some tips in short form:\n\n**1. Start with the pronunciation!** If you don't learn it correct at the beginning, it will be harder ot learn it later. Since the Na'vi don't write, the lagnuage is meant to be a only spoken language! If you don't know where to learn the pronunciation, try `%pronunciation`.\n**2. Learn a short time per day.** You will learn more by doing 5 Minutes a day than if you do 2 hours once a week.\n**3. Ask questions!** Here are many people to help you!\n**4. Learn grammar!** Grammar sounds scary for many people, but it is just a set of rules to build up correct sentences!\n**5. Practice what you learned!** Reading through grammar rules will teach you nearly nothing. You need to use it! With writing sentences you can also learn vocab - You will remember them better when you use them.\n**6. Speak as early as possible!** It is hard to dare to speak a new language at the beginning, but it is worth it! You learn much more by *using* the language than by just reading about it!",
-    "updates": "*What is new about Tsrezì? Here you see the last big updates.*\n\n**#24.10.2020** - First 4 wordlists added, vocab test function implemented\n**#28.10.2020** - Easy mode for wordlist tests added",
-    "shutdown1": "You are not my master! If you want to get rid of me for any reason, ask <@429361033446948864> if they will shut me down, but if you don't have a good reason, they will probably just say 'No'."
+    "lenition": "Following letters are influenced by lenition at the beginning of a word:\n\n`px` -> `p`\n`kx` -> `k`\n`tx` -> `t`\n`p` -> `f`\n`k` -> `h`\n`t`/`ts` -> `s`\n`'` -> *disappears, if not before `ll` or `rr`*\n\nLenition is caused by the prefixes `me+`, `pxe+`, `ay+`, `pe+`, all combined forms of those with other prefixes, and the adpositions `mì`, `fpi`, `sko`, `ìlä`, `sre`, `pxisre`, `lisre`, `ro`, `nuä` and `wä`",
+    "start": "A good start ist to read Pamìrìks Guide *So you want to speak Na'vi* (https://www.kelutral.org/get-started.html). But here are some tips in short form:\n\n**1. Start with the pronunciation!** If you don't learn it correct at the beginning, it will be harder ot learn it later. Since the Na'vi don't write, the language is meant to be a spoken language only! If you don't know where to learn the pronunciation, try `%pronunciation`.\n**2. Learn a short time per day.** You will learn more by doing 5 Minutes a day than if you do 2 hours once a week.\n**3. Ask questions!** Here are many people to help you!\n**4. Learn grammar!** Grammar sounds scary for many people, but it is just a set of rules to build up correct sentences!\n**5. Practice what you learned!** Reading through grammar rules will teach you nearly nothing. You need to use it! With writing sentences you can also learn vocab - You will remember them better when you use them.\n**6. Speak as early as possible!** It is hard to dare to speak a new language at the beginning, but it is worth it! You learn much more by *using* the language than by just reading about it!",
+    "updates": "*What is new about Tsrezì? Here you see the last big updates.*\n\n**#24.10.2020** - First 4 wordlists added, vocab test function implemented\n**#28.10.2020** - Easy mode for wordlist tests added\n**#08.02.2021** - Number convertion added",
+    "shutdown1": "You are not my master! If you want to get rid of me for any reason, ask <@429361033446948864> if she will shut me down, but if you don't have a good reason, they will probably just say *No*."
 }

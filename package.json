@@ -1,0 +1,27 @@
+{
+  "name": "tsrezi",
+  "version": "1.0.0",
+  "description": "lu riti ahona oe",
+  "main": "bot.js",
+  "dependencies": {
+    "@discordjs/builders": "^0.8.1",
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "discord-api-types": "^0.24.0",
+    "discord.js": "^13.3.0",
+    "dotenv": "^11.0.0",
+    "node-fetch": "^3.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kxitx/Uvansiyu.git"
+  },
+  "author": "Tekre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kxitx/Uvansiyu/issues"
+  },
+  "homepage": "https://github.com/Kxitx/Uvansiyu#readme"
+}

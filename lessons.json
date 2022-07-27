@@ -222,41 +222,6 @@
             "lvlDescription": "**- Level 1️⃣:** English sentences.\n**- Level 2️⃣:** Na'vi sentences.",
             "text": " *- Please write in the Chat: Which word is the ",
             "level": [
-                [
-                    "lu vin be",
-                    "'efu vtr feel",
-                    "nume vin learn",
-                    "irayo si thank",
-                    "kaltxì si greet",
-                    "nìn vtr watch",
-                    "tse'a vtr see",
-                    "kame vtr see",
-                    "hahaw vin sleep",
-                    "tslam vtr understand",
-                    "fpìl vtr think",
-                    "kä vin go",
-                    "sar vtr use",
-                    "tok vtr be",
-                    "kanom vtr get",
-                    "tìng vtr give",
-                    "tìran vtr walk",
-                    "new vtr want",
-                    "yom vtr eat",
-                    "srung si help",
-                    "sìlpey vin hope"
-                ],
-                [
-                    "fwefwi vin whistle",
-                    "pllngay vin admit",
-                    "ngop vtr create",
-                    "omum vtr know",
-                    "tsulfä si master",
-                    "makto ride",
-                    "terkup vin die",
-                    "emza'u vtr pass",
-                    "leymfe' vin complain",
-                    "slele vin swim"
-                ]
             ]
         },
         "third": {
@@ -268,7 +233,7 @@
                 [],
                 [],
                 [
-                    "{'sentence': 'I see you.', 'solution': 'kame ngati oel', 'kame': 'tse*a nìn tìng#nari', 'ngati': 'ngat mengat mengati pxenga pxengati ayngat ayngati'}",
+                    "{'sentence': 'I see you.', 'solution': 'kame ngati oel', 'kame': 'tse*a nìn tìng#nari', 'ngati': 'ngat ngengat ngengati mengat mengati mengengat mengengati pxenga pxengati pxengengat pxengengati ayngat ayngati ayngengat ayngengati', 'oel': 'ohel'}",
                     "The hunter hunts the animal.",
                     "You eat the fruit.",
                     "They cook the meat."

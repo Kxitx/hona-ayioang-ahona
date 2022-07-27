@@ -1,12 +1,8 @@
 {
-    "intro": "Test yourself - How well do you know the words?",
-    "exercise": " *- Write the Na'vi translation in the chat!*",
-    "choice": " *- React with the correct number!*\n\n",
-    "level": "**- Level 1️⃣:** Easy mode, choose the correct word\n**- Level 2️⃣:** Hard mode, write down the words yourself",
     "beginner": {
         "title": "Beginner vocab list",
         "end": "\nIf you want to test yourself, try `%wl beginner test` to start the vocab test!",
-        "intro": "intro. If you see this, that means that <@429361033446948864> forgot (or was just to lazy) to replace this filler text. If you want, you can ~~annoy~~ help them by reminding them friendly of replacing it by something useful. Seriously, please remind me, I need to get this stuff done.\n\n",
+        "intro": "intro. If you see this, that means that <@429361033446948864> forgot (or was just to lazy) to replace this filler text. If you want, you can ~~annoy~~ help him by reminding him friendly of replacing it by something useful. Seriously, please remind me, I need to get this stuff done.\n\n",
         "test": "Test help section, WIP. If you see this, that means that <@429361033446948864> forgot (or was just to lazy) to replace this filler text. If you want, you can ~~annoy~~ help them by reminding them friendly of replacing it by something useful. Seriously, please remind me, I need to get this stuff done.",
         "words": [
             "kaltxì;hello",
@@ -34,7 +30,7 @@
         "words": [
             "lu;to be",
             "tok;to be at, occupy a space",
-            "'efu';to feel",
+            "'efu;to feel",
             "tse'a;to see",
             "sunu;be pleasing, be likeable, bring enjoyment",
             "smon;be familiar, be known",
@@ -112,7 +108,7 @@
             "olo'eyktan;clan leader",
             "eyktan;leader",
             "eykyu;temporary leader of a small group like a hunting party",
-            "'eylan';friend",
+            "'eylan;friend",
             "wätu;opponent",
             "yawntu;beloved person",
             "muntxatu;spouse"
@@ -130,8 +126,8 @@
             "sempul;father",
             "sempu;daddy",
             "sa'sem;parents",
-            "'ite';daughter",
-            "'itan';son",
+            "'ite;daughter",
+            "'itan;son",
             "tsmuk;sibling",
             "tsmukan;brother",
             "tsmuke;sister",
@@ -139,6 +135,93 @@
             "muntxatu;spouse",
             "muntxate;wife",
             "muntxatan;husband"
+        ]
+    },
+    "weather": {
+        "title": "Family vocab list",
+        "end": "\nIf you want to test yourself, try `%wl family test` to start the vocab test!",
+        "intro": "intro. If you see this, that means that <@429361033446948864> forgot (or was just to lazy) to replace this filler text. If you want, you can ~~annoy~~ help them by reminding them friendly of replacing it by something useful. Seriously, please remind me, I need to get this stuff done.\n\n",
+        "test": "Test help section, WIP. If you see this, that means that <@429361033446948864> forgot (or was just to lazy) to replace this filler text. If you want, you can ~~annoy~~ help them by reminding them friendly of replacing it by something useful. Seriously, please remind me, I need to get this stuff done.",
+        "words": [
+            "ya;air",
+            "yafkeyk;weather",
+            "tsawke;sun",
+            "pìwopx;cloud",
+            "tompa;rain",
+            "hufwe;wind",
+            "herwì;snow",
+            "yrrap;storm",
+            "rawmpxom;thunder and lightning",
+            "rawm;lightning",
+            "'rrpxom;thunder",
+            "txanfwerwì;blizzard",
+            "tsyafe;mild, moderate, comfortable",
+            "sang;warm",
+            "wew;cold"
+        ]
+    },
+    "nature": {
+        "title": "Family vocab list",
+        "end": "\nIf you want to test yourself, try `%wl family test` to start the vocab test!",
+        "intro": "intro. If you see this, that means that <@429361033446948864> forgot (or was just to lazy) to replace this filler text. If you want, you can ~~annoy~~ help them by reminding them friendly of replacing it by something useful. Seriously, please remind me, I need to get this stuff done.\n\n",
+        "test": "Test help section, WIP. If you see this, that means that <@429361033446948864> forgot (or was just to lazy) to replace this filler text. If you want, you can ~~annoy~~ help them by reminding them friendly of replacing it by something useful. Seriously, please remind me, I need to get this stuff done.",
+        "words": [
+            "ioang;animal",
+            "'ewll;plant",
+            "spxam;mushroom",
+            "na'rìng;forest",
+            "zeswa;grass",
+            "utral;tree",
+            "kilvan;river",
+            "tskxe;stone",
+            "ram;mountain",
+            "ramtsyìp;hill",
+            "kllte;ground",
+            "'ora;lake",
+            "txampay;sea",
+            "reym;dry land",
+            "meoauniaea;harmony, living at one with nature"
+        ]
+    },
+    "insults": {
+        "title": "Family vocab list",
+        "end": "\nIf you want to test yourself, try `%wl family test` to start the vocab test!",
+        "intro": "intro. If you see this, that means that <@429361033446948864> forgot (or was just to lazy) to replace this filler text. If you want, you can ~~annoy~~ help them by reminding them friendly of replacing it by something useful. Seriously, please remind me, I need to get this stuff done.\n\n",
+        "test": "Test help section, WIP. If you see this, that means that <@429361033446948864> forgot (or was just to lazy) to replace this filler text. If you want, you can ~~annoy~~ help them by reminding them friendly of replacing it by something useful. Seriously, please remind me, I need to get this stuff done.",
+        "words": [
+            "skxawng;moron",
+            "teylupil;teylu-face (vulgar)",
+            "kalweyaveng;son of a bitch (vulgar)",
+            "kurkung;asshole (vulgar)",
+            "vonvä';butthole, asshole, dickhead (vulgar)",
+            "txanfwìngtu;bastard, loser (vulgar)",
+            "fnawe'tu;coward",
+            "'äpivaku;get lost! (vulgar)",
+            "pxasìk;Screw that! No way! (vulgar)",
+            "pak;part. for disparagement; always sentence final."
+        ]
+    },
+    "food": {
+        "title": "Family vocab list",
+        "end": "\nIf you want to test yourself, try `%wl family test` to start the vocab test!",
+        "intro": "intro. If you see this, that means that <@429361033446948864> forgot (or was just to lazy) to replace this filler text. If you want, you can ~~annoy~~ help them by reminding them friendly of replacing it by something useful. Seriously, please remind me, I need to get this stuff done.\n\n",
+        "test": "Test help section, WIP. If you see this, that means that <@429361033446948864> forgot (or was just to lazy) to replace this filler text. If you want, you can ~~annoy~~ help them by reminding them friendly of replacing it by something useful. Seriously, please remind me, I need to get this stuff done.",
+        "words": [
+            "syuve;food",
+            "vey;food from animal origin, for example meat, eggs, milk or similar things",
+            "tsngan;meat",
+            "fkxen;vegetables",
+            "mauti;fruit",
+            "pasuk;berry",
+            "spxam;mushroom",
+            "wutso;meal",
+            "'em;to cook",
+            "'emyu;cook (person)",
+            "huru;cooking pod",
+            "kalin;sweet",
+            "we'ay;sour",
+            "wip;salty",
+            "fwang;savory, umami, rich"
         ]
     }
 }

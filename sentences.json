@@ -1,0 +1,84 @@
+{
+	"sentences": [{
+		"Na'vi": "yolom oel teyluti",
+		"English": "i ate teylu",
+		"words": [{
+			"word": "yom",
+			"translation": "eat"
+		}, {
+			"word": "oe",
+			"translation": "I, me"
+		}, {
+			"word": "teylu",
+			"translation": "beetle larva"
+		}]
+	}, {
+		"Na'vi": "sunu oeru ayriti",
+		"English": "i like ritis",
+		"words": [{
+			"word": "sunu",
+			"translation": "be pleasing, be likeable, bring enjoyment"
+		}, {
+			"word": "oe",
+			"translation": "I, me"
+		}, {
+			"word": "riti",
+			"translation": "stingbat"
+		}]
+	}, {
+		"Na'vi": "new hivahaw oe",
+		"English": "i want to sleep",
+		"words": [{
+			"word": "new",
+			"translation": "want"
+		}, {
+			"word": "hahaw",
+			"translation": "sleep"
+		}, {
+			"word": "oe",
+			"translation": "I, me"
+		}]
+	}, {
+		"Na'vi": "tìng oeru syuveti",
+		"English": "give me food!",
+		"words": [{
+			"word": "tìng",
+			"translation": "give"
+		}, {
+			"word": "oe",
+			"translation": "I, me"
+		}, {
+			"word": "syuve",
+			"translation": "food (collective noun, cannot be pluralised)"
+		}]
+	}, {
+		"Na'vi": "nawma riti livu ngahu",
+		"English": "may the noble riti be with you",
+		"words": [{
+			"word": "nawm",
+			"translation": "great, noble"
+		}, {
+			"word": "riti",
+			"translation": "stingbat"
+		}, {
+			"word": "lu",
+			"translation": "to be"
+		}, {
+			"word": "nga",
+			"translation": "you"
+		}]
+	}, {
+		"Na'vi": "oel ngati kameie",
+		"English": "i see you",
+		"words": [{
+			"word": "oe",
+			"translation": "I, me"
+		}, {
+			"word": "nga",
+			"translation": "you"
+		}, {
+			"word": "kame",
+			"translation": "see, see into, understand, know (spiritual sense)"
+		}]
+	}]
+}
